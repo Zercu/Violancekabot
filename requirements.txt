@@ -1,0 +1,5 @@
+pyrogram==2.0.30
+pytgcalls==0.9.3
+yt-dlp==2023.02.17
+ffmpeg-python==0.2.0
+python-dotenv==0.19.2
